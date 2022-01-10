@@ -1,0 +1,32 @@
+.margin {
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
+.quem-somos {
+  background-color: rgb(255, 152, 0);
+  color: rgb(255, 255, 255);
+}
+
+#servicos {
+  color: rgb(255, 152, 0);
+}
+#servicos-abaixo {
+  background-color: rgb(255, 152, 0);
+  color: rgb(255, 255, 255);
+}
+
+.sustentabilidade {
+  background-color: rgb(255, 152, 0);
+  color: rgb(255, 255, 255);
+}
+
+#sustentavel {
+  color: rgb(255, 152, 0);
+}
+
+.bg-footer {
+  background-color: rgb(255, 152, 0);
+  color: rgb(255, 255, 255);
+  padding: 1px;
+}
